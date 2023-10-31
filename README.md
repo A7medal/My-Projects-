@@ -2,7 +2,7 @@
 <h3 align="center">🌱 I’m currently learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medal&label=Profile%20views&color=0e75b6&style=flat" alt="a7medal" /> </p>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/reaction-program-programmers-349qKnoIBHK1i")
+(img align="right" alt="Coding" width="400" src="https://i.imgur.com/vT4Oclk.gif")
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
